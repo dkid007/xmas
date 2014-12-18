@@ -1,0 +1,44 @@
+/*video App Stylesheet*/
+
+.jumbotron{padding:0px;
+			background-color: #000;
+}
+
+.btnPlay{position:absolute;
+	top:35%;
+	left:45%;
+	z-index: 1;
+	font-size: 100px;
+	color: grey;
+}
+
+.grinch{position: absolute;
+	top:68%;
+	left:70%; 
+	display: inline-block;
+	height: 750px;
+
+}
+
+.paragraph {
+	color: white;
+	width: 50%;
+	display: inline-block;
+	margin-left: 20%;
+
+}
+li{list-style: none;}
+
+.container {
+	margin: 0px;
+}
+
+#bye-padding {
+padding: 0px;
+
+}
+
+h1 {
+	font-size: 80px;
+}
+
